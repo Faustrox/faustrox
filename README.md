@@ -15,6 +15,6 @@ Hello,<br><br>My name is Fausto Jáquez and I am a mid-level full-stack develope
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/faustrox) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/faustrox) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/faustrox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
